@@ -1,0 +1,19 @@
+{
+    "mollie-subscriptions": {
+        "general": {
+            "menu": {
+                "title": "Mollie-Abonnements"
+            }
+        },
+        "product": {
+            "cardTitle": "Mollie"
+        },
+        "subscriptionStatus":  {
+            "pending": "Anhängig",
+            "active": "Aktiv",
+            "canceled": "Abgebrochen",
+            "suspended": "Ausgesetzt",
+            "completed": "Abgeschlossen"
+        }
+    }
+}
